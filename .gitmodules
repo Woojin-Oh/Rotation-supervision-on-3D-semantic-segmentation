@@ -1,0 +1,3 @@
+[submodule "Proto"]
+	path = Proto
+	url = https://github.com/Woojin-Oh/Rotation-supervision-on-3D-segmentation.git
